@@ -40,10 +40,11 @@ include('server.php');
                               <label class="checkbox" style="margin: 20px;">
                                 
                               <button name="login_user" type="submit" class="button is-block is-danger is-large is-fullwidth">Prijavi se</button>
-                              <div class="container has-text-centered is-size-4 has-text-weight-heavy has-text-link box" >
+                              
+                            </div>
+                            <div class="container has-text-centered is-size-4 has-text-weight-heavy has-text-link box" >
                                 <a href="index.php">Povratak na početnu!</a>
                               </div>
-                            </div>
                           </form>
                       </div>
                 </div>

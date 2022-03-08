@@ -55,14 +55,16 @@
                               <label class="checkbox" style="margin: 20px;">
                                 
                               <button class="button is-block is-danger is-large is-fullwidth" type="submit" name="reg_user">Registriraj se</button>
-                              <div class="container has-text-centered is-size-4 has-text-weight-heavy has-text-link box" >
+                              
+                            </div>
+                            
+                          </form>
+                          <div class="container has-text-centered is-size-4 has-text-weight-heavy has-text-link box" >
                                 <a href="login.php">Već imate račun? Prijavite se!</a>
                               </div>
-                            </div>
-                            <div class="container has-text-centered is-size-4 has-text-weight-heavy has-text-link box" >
+                          <div class="container has-text-centered is-size-4 has-text-weight-heavy has-text-link box" >
                                 <a href="index.php">Povratak na početnu!</a>
                               </div>
-                          </form>
                       </div>
                 </div>
               </div>

@@ -1,1 +1,1 @@
-# Infokup-RazvojSoftvera-Skvos
+# ZavrsniRadRT-bulma
